@@ -1,1 +1,5 @@
 config.h
+.pio
+.vscode
+.gitignore
+.travis.yml
